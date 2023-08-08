@@ -1,2 +1,2 @@
-# Dimensional_Space_Rocket
+# DimensionalSpaceRocket
 A space mini-game controlling a rocket
